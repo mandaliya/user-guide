@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Intelation User Guide',
+  title: 'Intelation Documentation',
   tagline: '',
   favicon: 'img/favicon.ico',
 
@@ -76,7 +76,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Intelation Platform User Guide',
+        title: 'Intelation Documentation',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo-file.svg',
